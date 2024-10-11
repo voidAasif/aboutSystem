@@ -44,9 +44,11 @@ aboutSystem is a simple desktop application built using Java Swing, AWT, and the
 
 ## Screenshots
  - Home
+ - 
 ![Home](https://github.com/user-attachments/assets/3951a063-32e7-4d2b-aad1-7e2d216de9f2)
 
-- Other
+ - Other
+ - 
 ![osName](https://github.com/user-attachments/assets/c9427882-c8b1-4fc1-9828-0f5bc62fde79)
 
 ## Contribution
